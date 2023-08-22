@@ -1,7 +1,7 @@
-# README.md Generator
+# Generator
   
 ## Description
-  This README.md generator guides the user to create a professional markdown file through a series of prompted questions. A badge description and icon is attached depending on the choice of license.
+  A cool project
 
 ## Table of Contents (Optional)
  
@@ -11,13 +11,14 @@
   - [License](#license)
   
 ## Installation
-  Type -------- npm i ---- in the terminal to install necessary packages.
+  npm i -- in terminal
   
 ## Usage
-  This .md file generator is to create professional README files for github repositories. The generated file can be found in the utils folder once the user ansewers all questions in the terminal.
-
-  [Walkthrough video link](https://drive.google.com/file/d/1EKTqP0trNHDNH71OU-hViFXUkjrzsh_j/view)
-   
+  for cool stuff
+  
+## Credits
+  N/A
+  
 ## License
   MIT License
   A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
@@ -25,6 +26,12 @@
   ![Static Badge](https://img.shields.io/badge/license-MIT-brightgreen)
   [MIT Link](https://tlo.mit.edu/learn-about-intellectual-property/software-and-open-source-licensing)
   
+## How to Contribute
+  N/A
+  
+## Tests
+  N/A
+
 ## Questions
   If you have any questions reach out to my email barrenac95@gmail.com or my github https://github.com/barcar95.
   
