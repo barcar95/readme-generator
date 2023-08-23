@@ -16,7 +16,7 @@
 ## Usage
   This .md file generator is to create professional README files for github repositories. The generated file can be found in the utils folder once the user ansewers all questions in the terminal.
 
-  [Walkthrough video link]()
+  [Walkthrough video link](https://drive.google.com/file/d/1GQQaoWi2giqN_lhDQiEr5fpl3m97SBuy/view)
    
 ## License
   MIT License

@@ -1,7 +1,7 @@
-# Generator
+# Cool project
   
 ## Description
-  A cool project
+  A very cool project description
 
 ## Table of Contents (Optional)
  
@@ -11,13 +11,13 @@
   - [License](#license)
   
 ## Installation
-  npm i -- in terminal
+  in terminal --- npm i ---
   
 ## Usage
-  for cool stuff
+  to do cool stuff
   
 ## Credits
-  N/A
+  None
   
 ## License
   MIT License
@@ -27,10 +27,10 @@
   [MIT Link](https://tlo.mit.edu/learn-about-intellectual-property/software-and-open-source-licensing)
   
 ## How to Contribute
-  N/A
+  None
   
 ## Tests
-  N/A
+  to test
 
 ## Questions
   If you have any questions reach out to my email barrenac95@gmail.com or my github https://github.com/barcar95.
